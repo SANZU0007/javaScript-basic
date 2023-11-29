@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+  display: "flex";
+  justify-content: "center";
+  text-align: center;
+  
+}
+#sanjay {
+ 
+}
+
+#id {
+ 
+
+  background-color: rgb(231, 11, 48);
+  color: rgb(8, 0, 0);
+  font-family: verdana;
+  font-size: 40px;
+  padding: 30px solid red;
+
+}
